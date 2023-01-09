@@ -20,8 +20,3 @@ Open [http://localhost:4005](http://localhost:4005) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-## Learn More
-
-You can learn more in the [Express documentation](https://expressjs.com/).
-
