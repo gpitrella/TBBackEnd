@@ -14,6 +14,3 @@ run this to start:
 
 and run npm run test to check test:
 ### `npm run test`
-
-Runs the app in the development mode.\
-Open [http://localhost:4005](http://localhost:4005) to view it in your browser.
