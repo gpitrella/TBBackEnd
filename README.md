@@ -14,3 +14,7 @@ run this to start:
 
 and run npm run test to check test:
 ### `npm run test`
+
+
+run this to start:
+### `npm start`
